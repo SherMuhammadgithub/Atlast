@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Atlast/static/css/main.15a5f3fd.css",
+    "main.js": "/Atlast/static/js/main.0353d919.js",
+    "static/js/963.217d9ba5.chunk.js": "/Atlast/static/js/963.217d9ba5.chunk.js",
+    "static/js/413.0650488b.chunk.js": "/Atlast/static/js/413.0650488b.chunk.js",
+    "static/js/636.d21cbf35.chunk.js": "/Atlast/static/js/636.d21cbf35.chunk.js",
+    "static/js/988.4c853e6f.chunk.js": "/Atlast/static/js/988.4c853e6f.chunk.js",
+    "index.html": "/Atlast/index.html",
+    "main.15a5f3fd.css.map": "/Atlast/static/css/main.15a5f3fd.css.map",
+    "main.0353d919.js.map": "/Atlast/static/js/main.0353d919.js.map",
+    "963.217d9ba5.chunk.js.map": "/Atlast/static/js/963.217d9ba5.chunk.js.map",
+    "413.0650488b.chunk.js.map": "/Atlast/static/js/413.0650488b.chunk.js.map",
+    "636.d21cbf35.chunk.js.map": "/Atlast/static/js/636.d21cbf35.chunk.js.map",
+    "988.4c853e6f.chunk.js.map": "/Atlast/static/js/988.4c853e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a5f3fd.css",
+    "static/js/main.0353d919.js"
+  ]
+}
